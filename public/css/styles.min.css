@@ -1,0 +1,48 @@
+/* General styles */
+.clearfix___1yHqr {
+  zoom: 1;
+}
+.clearfix___1yHqr:after {
+  clear: both;
+  content: ' ';
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+.ss-terms___dMEZ6 {
+  margin: 40px auto auto auto;
+  max-width: 450px;
+}
+.meta___3gcNx {
+  color: #333;
+  font-size: 13px;
+  line-height: 16px;
+  padding: 0 10px 40px 10px;
+}
+.clear_both___a0DL_ {
+  clear: both;
+}
+.hidden___1aMNf {
+  display: none;
+}
+.nowrap___2n1o8 {
+  white-space: nowrap;
+}
+.app___2khK2 {
+  margin: auto auto;
+  text-align: center;
+}
+.app___2khK2 .header___1xaBG {
+  font-family: verdana;
+  margin-bottom: 20px;
+}
+.app___2khK2 .radar_container___TYu2I {
+  float: left;
+}
+.app___2khK2 .radar_container___TYu2I .radar_header___36-ke {
+  margin-bottom: 10px;
+  font-family: verdana;
+  font-size: 16px;
+  text-align: center;
+}
+
