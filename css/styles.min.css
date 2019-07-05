@@ -36,10 +36,16 @@
   font-family: verdana;
   margin-bottom: 20px;
 }
-.app___2khK2 .radar_container___TYu2I {
+.app___2khK2 .legend_container___2VbP2 {
+  margin: auto auto;
+}
+.app___2khK2 .legend_container___2VbP2 div {
+  margin: auto auto;
+}
+.app___2khK2 .radars_container___1MVzv .radar_container___TYu2I {
   float: left;
 }
-.app___2khK2 .radar_container___TYu2I .radar_header___36-ke {
+.app___2khK2 .radars_container___1MVzv .radar_container___TYu2I .radar_header___36-ke {
   margin-bottom: 10px;
   font-family: verdana;
   font-size: 16px;
