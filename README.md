@@ -2,7 +2,7 @@
 
 **Live demo** https://ebuddj.github.io/2019-negativity/
 
-## What are European Countries' Issues
+## What are European Countries' Issues (EBU)
 
 This visualization shows the status on European countries according to seven data variables:
 
