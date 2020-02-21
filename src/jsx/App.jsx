@@ -37,9 +37,6 @@ class App extends Component {
   componentWillUnMount() {
 
   }
-  componentWillReceiveProps(props) {
-
-  }
   render() {
     function scaleBetween(unscaledNum, min, max) {
       return 100 * (unscaledNum - min) / (max - min);
